@@ -21,4 +21,19 @@
 
 - **Home**
 
+![Home1](https://github.com/user-attachments/assets/cd628985-c885-4f05-9bbe-c14e8ba9793c)
+
+![Home2](https://github.com/user-attachments/assets/17d3cc99-8575-4fb4-9071-07c6e90c2e03)
+
+- **My Profile**
+
+![MyProfile](https://github.com/user-attachments/assets/4ca839f6-5143-4ad4-b588-bc464f76fd73)
+
+- **Register**
+  
+![register](https://github.com/user-attachments/assets/e26e9517-22f3-42f9-b0e3-444da83e7714)
+
+- **Login**
+  
+![login](https://github.com/user-attachments/assets/1cdc1647-bfea-4097-885d-b0f2f4e8a5a3)
 
