@@ -95,7 +95,7 @@ private static final String PASSWORD = "your-password";
 Once deployed, open your browser and navigate to:
 
 ```
-http://localhost:8080/online-helpdesk
+http://localhost:8090/HelpDeskOnline/index.jsp
 ```
 
 ## Building and Running
