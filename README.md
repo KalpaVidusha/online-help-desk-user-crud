@@ -17,20 +17,8 @@
 - **IDE**: Eclipse IDE
 - **Architecture**: MVC (Model-View-Controller)
 
-## Installation and Setup
+## Screenshots
 
-Follow the steps below to set up the project locally:
+- **Home**
 
-### Prerequisites
 
-1. **Java Development Kit (JDK)** 8 or higher installed.
-2. **Eclipse IDE**.
-3. **Apache Tomcat Server v9** configured in Eclipse.
-4. **MySQL** installed and running.
-
-### Steps to Run the Project
-
-1. **Clone the Repository**  
-   Clone this repository to your local machine using the following command:  
-   ```bash
-   git clone https://github.com/KalpaVidusha/online-help-desk-user-crud.git
